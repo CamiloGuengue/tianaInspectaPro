@@ -1,0 +1,191 @@
+{
+    "inspections":
+    [
+        {
+            "_id": "313abc533def7544hij",
+            "inspection_id": 1,
+            "form_version": 1,
+            "executed_by": 1,
+            "executed_at": "2026-02-14T10:00:00Z",
+            "current_status": "completed",
+
+            "responses":
+            [
+                {
+                    "question_id": "q1",
+                    "question_text": "¿El equipo funciona correctamente?",
+                    "type": "boolean",
+                    "required": true,
+                    "answer": true
+                },
+                {
+                    "question_id": "q2",
+                    "question_text": "Temperatura registrada",
+                    "type": "number",
+                    "required": true,
+                    "answer": 35.4,
+                    "unit": "°C"
+                },
+                {
+                    "question_id": "q3",
+                    "question_text": "Observaciones",
+                    "type": "text",
+                    "required": false,
+                    "answer": "Sin novedades"
+                }
+            ],
+
+            "evidences":
+            [
+                {
+                    "evidence_id": "ev1",
+                    "type": "image",
+                    "url": "https://www.enter.co/wp-content/uploads/2024/05/Satoru_Gojo_arrives_on_the_battlefield_29.webp",
+                    "description": "Foto del panel frontal",
+                    "uploaded_at": "2026-02-14T10:30:00Z"
+                },
+                {
+                    "evidence_id": "ev2",
+                    "type": "image",
+                    "url": "https://animeargentina.net/wp-content/uploads/2023/12/thumbnail_1684710192767-1024x567.jpg",
+                    "description": "Foto del panel lateral",
+                    "uploaded_at": "2026-02-14T10:31:00Z"
+                }
+            ],
+
+            "status_history":
+            [
+                {
+                    "status": "assigned",
+                    "changed_at": "2026-02-12T09:00:00Z"
+                },
+                {
+                    "status": "in_progress",
+                    "changed_at": "2026-02-14T10:00:00Z"
+                },
+                {
+                    "status": "completed",
+                    "changed_at": "2026-02-14T11:45:00Z"
+                }
+            ],
+
+            "form_structure":
+            [
+                {
+                    "section_id": "s1",
+                    "section_name": "Estado general",
+                    "questions":
+                    [
+                        {
+                            "question_id": "q1",
+                            "type": "boolean",
+                            "label": "¿El equipo funciona correctamente?"
+                        },
+                        {
+                            "question_id": "q2",
+                            "type": "number",
+                            "label": "Temperatura registrada"
+                        },
+                        {
+                            "question_id": "q3",
+                            "type": "text",
+                            "label": "Observaciones"
+                        }
+                    ]
+                }
+            ]
+        },
+
+
+        {
+            "_id": "313klm533nop7544qrs",
+            "inspection_id": 2,
+            "form_version": 1,
+            "executed_by": 1,
+            "executed_at": "2026-02-14T14:02:00Z",
+            "current_status": "in_progress",
+
+            "responses":
+            [
+                {
+                    "question_id": "q1",
+                    "question_text": "¿El equipo funciona correctamente?",
+                    "type": "boolean",
+                    "required": true,
+                    "answer": false
+                },
+                {
+                    "question_id": "q2",
+                    "question_text": "Temperatura registrada",
+                    "type": "number",
+                    "required": true,
+                    "answer": 41.2,
+                    "unit": "°C"
+                },
+                {
+                    "question_id": "q3",
+                    "question_text": "Observaciones",
+                    "type": "text",
+                    "required": false,
+                    "answer": "Sobrecalentamiento"
+                }
+            ],
+
+            "evidences":
+            [
+                {
+                    "evidence_id": "ev1",
+                    "type": "image",
+                    "url": "https://i.namu.wiki/i/TIIOm5iWUO4LXtOg-AkumwyQ7ORGK9i872TfdZtOaD_uB-AzYHL0iTrLk-pdjHui-SWAxQKhJdxTvtDilBuirQ.webp",
+                    "description": "Foto del dispositivo de forma externa",
+                    "uploaded_at": "2026-02-14T14:43:00Z"
+                },
+                {
+                    "evidence_id": "ev2",
+                    "type": "image",
+                    "url": "https://www.geekmi.news/img/2022/01/28/takaba.png?__scale=c:transparent,w:726,h:713,t:3",
+                    "description": "Foto del sensor de temperatura",
+                    "uploaded_at": "2026-02-14T14:44:00Z"
+                }
+            ],
+
+            "status_history":
+            [
+                {
+                    "status": "assigned",
+                    "changed_at": "2026-02-12T13:00:00Z"
+                },
+                {
+                    "status": "in_progress",
+                    "changed_at": "2026-02-14T14:30:00Z"
+                }
+            ],
+
+            "form_structure":
+            [
+                {
+                    "section_id": "s1",
+                    "section_name": "Estado general",
+                    "questions":
+                    [
+                        {
+                            "question_id": "q1",
+                            "type": "boolean",
+                            "label": "¿El equipo funciona correctamente?"
+                        },
+                        {
+                            "question_id": "q2",
+                            "type": "number",
+                            "label": "Temperatura registrada"
+                        },
+                        {
+                            "question_id": "q3",
+                            "type": "text",
+                            "label": "Observaciones"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
