@@ -20,5 +20,9 @@
   "previous": {
     "title": "MODELADO DE DATOS (NoSQL)",
     "permalink": "/docs/modeladoDeDatos"
+  },
+  "next": {
+    "title": "Justificación Arquitectónica Basada en el Flujo de Inspección",
+    "permalink": "/docs/diagram"
   }
 }

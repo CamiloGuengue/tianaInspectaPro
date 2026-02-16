@@ -114,15 +114,15 @@ export default [
   },
   {
     path: '/docs',
-    component: ComponentCreator('/docs', 'a70'),
+    component: ComponentCreator('/docs', 'e31'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '792'),
+        component: ComponentCreator('/docs', '9f4'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '23f'),
+            component: ComponentCreator('/docs', 'a23'),
             routes: [
               {
                 path: '/docs/1 bussiner interpretation',
@@ -131,8 +131,8 @@ export default [
                 sidebar: "tutorialSidebar"
               },
               {
-                path: '/docs/Architectural',
-                component: ComponentCreator('/docs/Architectural', '724'),
+                path: '/docs/diagram',
+                component: ComponentCreator('/docs/diagram', 'bfc'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },

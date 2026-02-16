@@ -16,8 +16,8 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "Architectural",
-              "path": "/docs/Architectural",
+              "id": "diagram",
+              "path": "/docs/diagram",
               "sidebar": "tutorialSidebar"
             },
             {
