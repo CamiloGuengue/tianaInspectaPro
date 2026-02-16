@@ -1,0 +1,28 @@
+{
+  "id": "5",
+  "title": "MODELADO DE DATOS (NoSQL)",
+  "description": "Esta información no debería estar en SQL porque si el formulario de preguntas llega a cambiar (Por ejemplo) y más preguntas son agregadas se tendría que hacer una tabla nueva, con nuevas conexiones por ID para mantenerlo controlado con una DB SQL ya que estas DB no pueden almacenar múltiples datos en en un mismo espacio.",
+  "source": "@site/docs/5.md",
+  "sourceDirName": ".",
+  "slug": "/5",
+  "permalink": "/docs/5",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/5.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 6,
+  "frontMatter": {
+    "sidebar_position": 6,
+    "title": "MODELADO DE DATOS (NoSQL)"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DIAGRAMA DE FLUJO",
+    "permalink": "/docs/diagramaDeFlujo"
+  },
+  "next": {
+    "title": "JUSTIFICACION ARQUITECTONICA",
+    "permalink": "/docs/Architectural"
+  }
+}

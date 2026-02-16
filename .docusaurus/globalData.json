@@ -1,0 +1,58 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "intro",
+          "docs": [
+            {
+              "id": "1 bussiner interpretation",
+              "path": "/docs/1 bussiner interpretation",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "5",
+              "path": "/docs/5",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Architectural",
+              "path": "/docs/Architectural",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "diagramaDeFlujo",
+              "path": "/docs/diagramaDeFlujo",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "diagramaDeUso",
+              "path": "/docs/diagramaDeUso",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "intro",
+              "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/intro",
+                "label": "intro"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

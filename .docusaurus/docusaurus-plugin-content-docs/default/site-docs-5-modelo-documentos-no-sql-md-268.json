@@ -1,0 +1,25 @@
+{
+  "id": "modeloDocumentos(NoSql)",
+  "title": "Aqui",
+  "description": "contenido aca",
+  "source": "@site/docs/5.modeloDocumentos(NoSql).md",
+  "sourceDirName": ".",
+  "slug": "/modeloDocumentos(NoSql)",
+  "permalink": "/docs/modeloDocumentos(NoSql)",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/5.modeloDocumentos(NoSql).md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 5,
+  "frontMatter": {},
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DIAGRAMA DE FLUJO",
+    "permalink": "/docs/diagramaDeFlujo"
+  },
+  "next": {
+    "title": "INTERPRETACION EMPRESARIAL",
+    "permalink": "/docs/1 bussiner interpretation"
+  }
+}

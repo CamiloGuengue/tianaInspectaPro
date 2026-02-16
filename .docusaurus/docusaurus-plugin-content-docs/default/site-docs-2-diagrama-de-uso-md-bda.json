@@ -1,0 +1,28 @@
+{
+  "id": "diagramaDeUso",
+  "title": "DIAGRAMA DE USO",
+  "description": "Mi diagrama",
+  "source": "@site/docs/2.diagramaDeUso.md",
+  "sourceDirName": ".",
+  "slug": "/diagramaDeUso",
+  "permalink": "/docs/diagramaDeUso",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/2.diagramaDeUso.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 3,
+  "frontMatter": {
+    "sidebar_position": 3,
+    "title": "DIAGRAMA DE USO"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "INTERPRETACION EMPRESARIAL",
+    "permalink": "/docs/1 bussiner interpretation"
+  },
+  "next": {
+    "title": "DIAGRAMA DE FLUJO",
+    "permalink": "/docs/diagramaDeFlujo"
+  }
+}

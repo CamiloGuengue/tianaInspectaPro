@@ -1,0 +1,24 @@
+{
+  "id": "Architectural",
+  "title": "JUSTIFICACION ARQUITECTONICA",
+  "description": "1. Qué datos viven en SQL y por qué",
+  "source": "@site/docs/6. Architectural.md",
+  "sourceDirName": ".",
+  "slug": "/Architectural",
+  "permalink": "/docs/Architectural",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/6. Architectural.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 7,
+  "frontMatter": {
+    "sidebar_position": 7,
+    "title": "JUSTIFICACION ARQUITECTONICA"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "MODELADO DE DATOS (NoSQL)",
+    "permalink": "/docs/5"
+  }
+}

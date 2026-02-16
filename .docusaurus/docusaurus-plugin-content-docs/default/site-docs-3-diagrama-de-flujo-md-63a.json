@@ -1,0 +1,28 @@
+{
+  "id": "diagramaDeFlujo",
+  "title": "DIAGRAMA DE FLUJO",
+  "description": "Mi diagrama",
+  "source": "@site/docs/3.diagramaDeFlujo.md",
+  "sourceDirName": ".",
+  "slug": "/diagramaDeFlujo",
+  "permalink": "/docs/diagramaDeFlujo",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/3.diagramaDeFlujo.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 4,
+  "frontMatter": {
+    "sidebar_position": 4,
+    "title": "DIAGRAMA DE FLUJO"
+  },
+  "sidebar": "tutorialSidebar",
+  "previous": {
+    "title": "DIAGRAMA DE USO",
+    "permalink": "/docs/diagramaDeUso"
+  },
+  "next": {
+    "title": "MODELADO DE DATOS (NoSQL)",
+    "permalink": "/docs/5"
+  }
+}
