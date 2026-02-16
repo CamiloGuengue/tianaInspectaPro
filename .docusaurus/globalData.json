@@ -16,11 +16,6 @@
               "sidebar": "tutorialSidebar"
             },
             {
-              "id": "5",
-              "path": "/docs/5",
-              "sidebar": "tutorialSidebar"
-            },
-            {
               "id": "Architectural",
               "path": "/docs/Architectural",
               "sidebar": "tutorialSidebar"
@@ -38,6 +33,16 @@
             {
               "id": "intro",
               "path": "/docs/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "ModeladoDeData",
+              "path": "/docs/ModeladoDeData",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "modeladoDeDatos",
+              "path": "/docs/modeladoDeDatos",
               "sidebar": "tutorialSidebar"
             }
           ],

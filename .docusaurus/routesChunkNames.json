@@ -242,26 +242,29 @@
     "sidebar": "sidebar---blog-814-8ac",
     "content": "content---blog-welcomed-9-f-ffb"
   },
-  "/docs-356": {
+  "/markdown-page-3d7": {
+    "__comp": "__comp---theme-mdx-page-1-f-3-b90",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "content": "content---markdown-page-393-028"
+  },
+  "/docs-a70": {
     "__comp": "__comp---theme-docs-root-5-e-9-0b6",
     "__context": {
       "plugin": "plugin---docsaba-d7c"
     }
   },
-  "/docs-856": {
+  "/docs-792": {
     "__comp": "__comp---theme-doc-version-roota-7-b-5de",
     "__props": "__props---docs-005-788"
   },
-  "/docs-03e": {
+  "/docs-23f": {
     "__comp": "__comp---theme-doc-roota-94-67a"
   },
   "/docs/1 bussiner interpretation-7ff": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-1-bussiner-interpretation-5-ef-e95"
-  },
-  "/docs/5-5d5": {
-    "__comp": "__comp---theme-doc-item-178-a40",
-    "content": "content---docs-5-de-4-221"
   },
   "/docs/Architectural-724": {
     "__comp": "__comp---theme-doc-item-178-a40",
@@ -278,5 +281,20 @@
   "/docs/intro-61d": {
     "__comp": "__comp---theme-doc-item-178-a40",
     "content": "content---docs-intro-0-e-3-be1"
+  },
+  "/docs/ModeladoDeData-517": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modelado-de-databd-4-811"
+  },
+  "/docs/modeladoDeDatos-d6f": {
+    "__comp": "__comp---theme-doc-item-178-a40",
+    "content": "content---docs-modelado-de-datosee-7-261"
+  },
+  "/-2e1": {
+    "__comp": "__comp---site-src-pages-index-jsc-4-f-f99",
+    "__context": {
+      "plugin": "plugin---markdown-pagea-74-7b5"
+    },
+    "config": "config---5-e-9-4f3"
   }
 }

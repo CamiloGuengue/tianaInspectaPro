@@ -108,26 +108,25 @@ export default [
     exact: true
   },
   {
+    path: '/markdown-page',
+    component: ComponentCreator('/markdown-page', '3d7'),
+    exact: true
+  },
+  {
     path: '/docs',
-    component: ComponentCreator('/docs', '356'),
+    component: ComponentCreator('/docs', 'a70'),
     routes: [
       {
         path: '/docs',
-        component: ComponentCreator('/docs', '856'),
+        component: ComponentCreator('/docs', '792'),
         routes: [
           {
             path: '/docs',
-            component: ComponentCreator('/docs', '03e'),
+            component: ComponentCreator('/docs', '23f'),
             routes: [
               {
                 path: '/docs/1 bussiner interpretation',
                 component: ComponentCreator('/docs/1 bussiner interpretation', '7ff'),
-                exact: true,
-                sidebar: "tutorialSidebar"
-              },
-              {
-                path: '/docs/5',
-                component: ComponentCreator('/docs/5', '5d5'),
                 exact: true,
                 sidebar: "tutorialSidebar"
               },
@@ -154,12 +153,29 @@ export default [
                 component: ComponentCreator('/docs/intro', '61d'),
                 exact: true,
                 sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/ModeladoDeData',
+                component: ComponentCreator('/docs/ModeladoDeData', '517'),
+                exact: true,
+                sidebar: "tutorialSidebar"
+              },
+              {
+                path: '/docs/modeladoDeDatos',
+                component: ComponentCreator('/docs/modeladoDeDatos', 'd6f'),
+                exact: true,
+                sidebar: "tutorialSidebar"
               }
             ]
           }
         ]
       }
     ]
+  },
+  {
+    path: '/',
+    component: ComponentCreator('/', '2e1'),
+    exact: true
   },
   {
     path: '*',
