@@ -1,5 +1,7 @@
-# INTERPRETACION EMPRESARIAL
-
+---
+sidebar_position: 2
+title: INTERPRETACION EMPRESARIAL
+---
 
 ##### a) MODELO DE NEGOCIO
 
